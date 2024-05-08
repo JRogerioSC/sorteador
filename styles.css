@@ -95,21 +95,7 @@
     opacity: 0.8;
   }
 
-  @media (max-width: 936px){
-    
-
-    .input-max , .input-min{
-      display: flexbox;
-      margin-top: 30px;
-      width: 700px;
-      height: auto;
-      text-align: center;
-    }
-
-    
-
-  }
-
+  
     
    
     
